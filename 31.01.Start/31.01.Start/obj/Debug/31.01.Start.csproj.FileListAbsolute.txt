@@ -1,0 +1,8 @@
+C:\Technologies\С#\31.01.Start\31.01.Start\bin\Debug\31.01.Start.exe.config
+C:\Technologies\С#\31.01.Start\31.01.Start\bin\Debug\31.01.Start.exe
+C:\Technologies\С#\31.01.Start\31.01.Start\bin\Debug\31.01.Start.pdb
+C:\Technologies\С#\31.01.Start\31.01.Start\obj\Debug\31.01.Start.csproj.AssemblyReference.cache
+C:\Technologies\С#\31.01.Start\31.01.Start\obj\Debug\31.01.Start.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\31.01.Start\31.01.Start\obj\Debug\31.01.Start.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\31.01.Start\31.01.Start\obj\Debug\31.01.Start.exe
+C:\Technologies\С#\31.01.Start\31.01.Start\obj\Debug\31.01.Start.pdb

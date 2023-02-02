@@ -1,0 +1,8 @@
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\bin\Debug\01.02.Arrays.exe.config
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\bin\Debug\01.02.Arrays.exe
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\bin\Debug\01.02.Arrays.pdb
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\obj\Debug\01.02.Arrays.csproj.AssemblyReference.cache
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\obj\Debug\01.02.Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\obj\Debug\01.02.Arrays.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\obj\Debug\01.02.Arrays.exe
+C:\Technologies\С#\01.02.Arrays\01.02.Arrays\obj\Debug\01.02.Arrays.pdb

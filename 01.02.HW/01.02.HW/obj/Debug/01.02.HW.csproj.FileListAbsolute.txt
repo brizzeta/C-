@@ -1,0 +1,8 @@
+C:\Technologies\С#\01.02.HW\01.02.HW\bin\Debug\01.02.HW.exe.config
+C:\Technologies\С#\01.02.HW\01.02.HW\bin\Debug\01.02.HW.exe
+C:\Technologies\С#\01.02.HW\01.02.HW\bin\Debug\01.02.HW.pdb
+C:\Technologies\С#\01.02.HW\01.02.HW\obj\Debug\01.02.HW.csproj.AssemblyReference.cache
+C:\Technologies\С#\01.02.HW\01.02.HW\obj\Debug\01.02.HW.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\01.02.HW\01.02.HW\obj\Debug\01.02.HW.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\01.02.HW\01.02.HW\obj\Debug\01.02.HW.exe
+C:\Technologies\С#\01.02.HW\01.02.HW\obj\Debug\01.02.HW.pdb

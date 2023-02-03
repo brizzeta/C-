@@ -1,0 +1,8 @@
+C:\Technologies\С#\03.02.String\03.02.String\bin\Debug\03.02.String.exe.config
+C:\Technologies\С#\03.02.String\03.02.String\bin\Debug\03.02.String.exe
+C:\Technologies\С#\03.02.String\03.02.String\bin\Debug\03.02.String.pdb
+C:\Technologies\С#\03.02.String\03.02.String\obj\Debug\03.02.String.csproj.AssemblyReference.cache
+C:\Technologies\С#\03.02.String\03.02.String\obj\Debug\03.02.String.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\03.02.String\03.02.String\obj\Debug\03.02.String.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\03.02.String\03.02.String\obj\Debug\03.02.String.exe
+C:\Technologies\С#\03.02.String\03.02.String\obj\Debug\03.02.String.pdb

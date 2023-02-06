@@ -1,0 +1,8 @@
+C:\Technologies\С#\06.02.Access_modifier\Employee\bin\Debug\Employee.exe.config
+C:\Technologies\С#\06.02.Access_modifier\Employee\bin\Debug\Employee.exe
+C:\Technologies\С#\06.02.Access_modifier\Employee\bin\Debug\Employee.pdb
+C:\Technologies\С#\06.02.Access_modifier\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Technologies\С#\06.02.Access_modifier\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\06.02.Access_modifier\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\06.02.Access_modifier\Employee\obj\Debug\Employee.exe
+C:\Technologies\С#\06.02.Access_modifier\Employee\obj\Debug\Employee.pdb

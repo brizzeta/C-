@@ -1,0 +1,8 @@
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\bin\Debug\06.02.Access_modifier.exe.config
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\bin\Debug\06.02.Access_modifier.exe
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\bin\Debug\06.02.Access_modifier.pdb
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\obj\Debug\City.csproj.AssemblyReference.cache
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\obj\Debug\City.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\obj\Debug\City.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\obj\Debug\06.02.Access_modifier.exe
+C:\Technologies\С#\06.02.Access_modifier\06.02.Access_modifier\obj\Debug\06.02.Access_modifier.pdb

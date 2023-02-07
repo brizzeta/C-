@@ -1,0 +1,8 @@
+C:\Technologies\С#\07.02.Vector\07.02.Vector\bin\Debug\07.02.Vector.exe.config
+C:\Technologies\С#\07.02.Vector\07.02.Vector\bin\Debug\07.02.Vector.exe
+C:\Technologies\С#\07.02.Vector\07.02.Vector\bin\Debug\07.02.Vector.pdb
+C:\Technologies\С#\07.02.Vector\07.02.Vector\obj\Debug\07.02.Vector.csproj.AssemblyReference.cache
+C:\Technologies\С#\07.02.Vector\07.02.Vector\obj\Debug\07.02.Vector.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\07.02.Vector\07.02.Vector\obj\Debug\07.02.Vector.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\07.02.Vector\07.02.Vector\obj\Debug\07.02.Vector.exe
+C:\Technologies\С#\07.02.Vector\07.02.Vector\obj\Debug\07.02.Vector.pdb

@@ -1,0 +1,8 @@
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\bin\Debug\08.02.Credit_Card.exe.config
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\bin\Debug\08.02.Credit_Card.exe
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\bin\Debug\08.02.Credit_Card.pdb
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\obj\Debug\08.02.Credit_Card.csproj.AssemblyReference.cache
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\obj\Debug\08.02.Credit_Card.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\obj\Debug\08.02.Credit_Card.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\obj\Debug\08.02.Credit_Card.exe
+C:\Technologies\С#\08.02.Credit_Card\08.02.Credit_Card\obj\Debug\08.02.Credit_Card.pdb

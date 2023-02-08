@@ -1,0 +1,8 @@
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\bin\Debug\08.02.Boolean_expression.exe.config
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\bin\Debug\08.02.Boolean_expression.exe
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\bin\Debug\08.02.Boolean_expression.pdb
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\obj\Debug\08.02.Boolean_expression.csproj.AssemblyReference.cache
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\obj\Debug\08.02.Boolean_expression.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\obj\Debug\08.02.Boolean_expression.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\obj\Debug\08.02.Boolean_expression.exe
+C:\Technologies\С#\08.02.Boolean_expression\08.02.Boolean_expression\obj\Debug\08.02.Boolean_expression.pdb

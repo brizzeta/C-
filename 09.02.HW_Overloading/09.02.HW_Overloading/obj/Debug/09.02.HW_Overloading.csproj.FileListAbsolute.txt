@@ -1,0 +1,8 @@
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\bin\Debug\09.02.HW_Overloading.exe.config
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\bin\Debug\09.02.HW_Overloading.exe
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\bin\Debug\09.02.HW_Overloading.pdb
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\obj\Debug\09.02.HW_Overloading.csproj.AssemblyReference.cache
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\obj\Debug\09.02.HW_Overloading.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\obj\Debug\09.02.HW_Overloading.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\obj\Debug\09.02.HW_Overloading.exe
+C:\Technologies\С#\09.02.HW_Overloading\09.02.HW_Overloading\obj\Debug\09.02.HW_Overloading.pdb

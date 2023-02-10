@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -33,10 +34,24 @@ namespace Matrix_name
         {
             this.matrix = matrix;
         }
-        public int this[int ind1, int ind2]
+        public int this[int ind1, int ind2]                   //индексация
         {
-            get => matrix[ind1, ind2];
-            set => matrix[ind1, ind2] = value;
+            get
+            {
+                if (ind1 >= 0 && ind1 < matrix.GetLength(0) && ind2 >= 0 && ind2 < matrix.GetLength(1))
+                {
+                    return matrix[ind1, ind2];
+                }
+                else throw new Exception("Not correct index.");
+            }
+            set
+            {
+                if (ind1 >= 0 && ind1 < matrix.GetLength(0) && ind2 >= 0 && ind2 < matrix.GetLength(1))
+                {
+                    matrix[ind1, ind2] = value;
+                }
+                else throw new Exception("Not correct index.");
+            }
         }
         public void Print()
         {

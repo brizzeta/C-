@@ -43,13 +43,14 @@ namespace _08._02.Overloading_operations
             m2.Print();
 
             Console.WriteLine();
-
             m1 = m1 + m2;
             m1.Print();
 
             Console.WriteLine();
-
             Console.WriteLine("\n" + (m1 == m2));
+
+            m1[3, 3] = 8;
+            m1.Print();
         }
         static void Task_City()
         {
@@ -78,9 +79,9 @@ namespace _08._02.Overloading_operations
         static void Main(string[] args)
         {
             //Task_Employee();
-            //Task_Matrix();
+            Task_Matrix();
             //Task_City();
-            Task_Card();
+            //Task_Card();
         }
     }
 }

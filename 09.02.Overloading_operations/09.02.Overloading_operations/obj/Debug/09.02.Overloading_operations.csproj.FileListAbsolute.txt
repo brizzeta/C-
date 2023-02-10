@@ -6,3 +6,11 @@ C:\Technologies\С#\08.02.Overloading_operations\08.02.Overloading_operations\ob
 C:\Technologies\С#\08.02.Overloading_operations\08.02.Overloading_operations\obj\Debug\09.02.Overloading_operations.csproj.CoreCompileInputs.cache
 C:\Technologies\С#\08.02.Overloading_operations\08.02.Overloading_operations\obj\Debug\08.02.Overloading_operations.exe
 C:\Technologies\С#\08.02.Overloading_operations\08.02.Overloading_operations\obj\Debug\08.02.Overloading_operations.pdb
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\bin\Debug\08.02.Overloading_operations.exe.config
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\bin\Debug\08.02.Overloading_operations.exe
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\bin\Debug\08.02.Overloading_operations.pdb
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\obj\Debug\09.02.Overloading_operations.csproj.AssemblyReference.cache
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\obj\Debug\09.02.Overloading_operations.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\obj\Debug\09.02.Overloading_operations.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\obj\Debug\08.02.Overloading_operations.exe
+C:\Technologies\С#\09.02.Overloading_operations\09.02.Overloading_operations\obj\Debug\08.02.Overloading_operations.pdb

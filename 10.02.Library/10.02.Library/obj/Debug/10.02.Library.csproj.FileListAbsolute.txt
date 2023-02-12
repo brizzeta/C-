@@ -1,0 +1,8 @@
+C:\Technologies\С#\10.02.Library\10.02.Library\bin\Debug\10.02.Library.exe.config
+C:\Technologies\С#\10.02.Library\10.02.Library\bin\Debug\10.02.Library.exe
+C:\Technologies\С#\10.02.Library\10.02.Library\bin\Debug\10.02.Library.pdb
+C:\Technologies\С#\10.02.Library\10.02.Library\obj\Debug\10.02.Library.csproj.AssemblyReference.cache
+C:\Technologies\С#\10.02.Library\10.02.Library\obj\Debug\10.02.Library.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\10.02.Library\10.02.Library\obj\Debug\10.02.Library.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\10.02.Library\10.02.Library\obj\Debug\10.02.Library.exe
+C:\Technologies\С#\10.02.Library\10.02.Library\obj\Debug\10.02.Library.pdb

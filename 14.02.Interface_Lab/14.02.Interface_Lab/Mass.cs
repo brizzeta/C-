@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Mass_name
 {
-    class Mass : IOutput, IMath, ISort
+    class Mass : IOutput, IMath, ISort, ICalc, IOutput2, ICalc2
     {
         public int[] arr;
         public Mass(int length)       //конструктор с парам
@@ -64,6 +64,54 @@ namespace Mass_name
             if(isAsc)
                 SortAsc();
             else SortDesc();
+        }
+        public int Less(int valueToCompare)        //кол-во значений меньше заданного
+        {
+            int count = 0;
+            foreach(int el in arr)
+            {
+                if(el < valueToCompare) count++;
+            }
+            return count;
+        }
+        public int Greater(int valueToCompare)        //кол-во значений больше заданного
+        {
+            int count = 0;
+            foreach (int el in arr)
+            {
+                if (el > valueToCompare) count++;
+            }
+            return count;
+        }
+        public void ShowEven()              //показать четные элементы
+        {
+            foreach (int el in arr)
+            {
+                if (el % 2 == 0) Console.Write(el + " "); 
+            }
+        }
+        public void ShowOdd()               //показать нечетные элементы
+        {
+            foreach (int el in arr)
+            {
+                if (el % 2 == 1) Console.Write(el + " ");
+            }
+        }
+        public int CountDistinct()          //кол-во уникальных элементов
+        {
+            int count = 0;
+            foreach (var i in arr.GroupBy(i => i).Where(g => g.Count() == 1).Select(g => g.Key))
+                count++;
+            return count;
+        }
+        public int EqualToValue(int valueToCompare)       //кол-во элементов равных к заданному
+        {
+            int count = 0;
+            foreach (int el in arr)
+            {
+                if (el == valueToCompare) count++;
+            }
+            return count;
         }
     }
 }

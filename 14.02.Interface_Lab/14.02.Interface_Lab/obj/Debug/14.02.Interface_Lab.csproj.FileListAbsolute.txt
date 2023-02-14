@@ -1,0 +1,8 @@
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\bin\Debug\14.02.Interface_Lab.exe.config
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\bin\Debug\14.02.Interface_Lab.exe
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\bin\Debug\14.02.Interface_Lab.pdb
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\obj\Debug\14.02.Interface_Lab.csproj.AssemblyReference.cache
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\obj\Debug\14.02.Interface_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\obj\Debug\14.02.Interface_Lab.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\obj\Debug\14.02.Interface_Lab.exe
+C:\Technologies\С#\14.02.Interface_Lab\14.02.Interface_Lab\obj\Debug\14.02.Interface_Lab.pdb

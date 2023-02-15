@@ -1,5 +1,6 @@
 ﻿using Library_name;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -46,9 +47,16 @@ namespace My_books_name
         }
         public bool Find(Library obj, string FindName)
         {
-            if (obj.name == FindName) 
+            if (obj.Name == FindName) 
                 return true;
             else return false;
+        }
+        public IEnumerator GetEnumerator() 
+        {
+            for(int i = 0; i < lib.Length; i++)
+            {
+                yield return lib[i];
+            }
         }
     }
 }

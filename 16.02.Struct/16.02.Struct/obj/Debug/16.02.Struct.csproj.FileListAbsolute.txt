@@ -1,0 +1,8 @@
+C:\Technologies\С#\16.02.Struct\16.02.Struct\bin\Debug\16.02.Struct.exe.config
+C:\Technologies\С#\16.02.Struct\16.02.Struct\bin\Debug\16.02.Struct.exe
+C:\Technologies\С#\16.02.Struct\16.02.Struct\bin\Debug\16.02.Struct.pdb
+C:\Technologies\С#\16.02.Struct\16.02.Struct\obj\Debug\16.02.Struct.csproj.AssemblyReference.cache
+C:\Technologies\С#\16.02.Struct\16.02.Struct\obj\Debug\16.02.Struct.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\16.02.Struct\16.02.Struct\obj\Debug\16.02.Struct.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\16.02.Struct\16.02.Struct\obj\Debug\16.02.Struct.exe
+C:\Technologies\С#\16.02.Struct\16.02.Struct\obj\Debug\16.02.Struct.pdb

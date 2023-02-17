@@ -1,0 +1,8 @@
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\bin\Debug\17.02.Laba_Delegate.exe.config
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\bin\Debug\17.02.Laba_Delegate.exe
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\bin\Debug\17.02.Laba_Delegate.pdb
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\obj\Debug\17.02.Laba_Delegate.csproj.AssemblyReference.cache
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\obj\Debug\17.02.Laba_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\obj\Debug\17.02.Laba_Delegate.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\obj\Debug\17.02.Laba_Delegate.exe
+C:\Technologies\С#\17.02.Laba_Delegate\17.02.Laba_Delegate\obj\Debug\17.02.Laba_Delegate.pdb

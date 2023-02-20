@@ -1,0 +1,8 @@
+C:\Technologies\С#\20.02.Events\20.02.Events\obj\Debug\20.02.Events.csproj.AssemblyReference.cache
+C:\Technologies\С#\20.02.Events\20.02.Events\obj\Debug\20.02.Events.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\20.02.Events\20.02.Events\obj\Debug\20.02.Events.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\20.02.Events\20.02.Events\bin\Debug\20.02.Events.exe.config
+C:\Technologies\С#\20.02.Events\20.02.Events\bin\Debug\20.02.Events.exe
+C:\Technologies\С#\20.02.Events\20.02.Events\bin\Debug\20.02.Events.pdb
+C:\Technologies\С#\20.02.Events\20.02.Events\obj\Debug\20.02.Events.exe
+C:\Technologies\С#\20.02.Events\20.02.Events\obj\Debug\20.02.Events.pdb

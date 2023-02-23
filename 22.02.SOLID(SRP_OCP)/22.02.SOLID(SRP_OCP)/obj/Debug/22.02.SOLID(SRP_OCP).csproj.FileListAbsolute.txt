@@ -1,0 +1,8 @@
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\bin\Debug\22.02.SOLID(SRP_OCP).exe.config
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\bin\Debug\22.02.SOLID(SRP_OCP).exe
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\bin\Debug\22.02.SOLID(SRP_OCP).pdb
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\obj\Debug\22.02.SOLID(SRP_OCP).csproj.AssemblyReference.cache
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\obj\Debug\22.02.SOLID(SRP_OCP).csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\obj\Debug\22.02.SOLID(SRP_OCP).csproj.CoreCompileInputs.cache
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\obj\Debug\22.02.SOLID(SRP_OCP).exe
+C:\Technologies\С#\22.02.SOLID(SRP_OCP)\22.02.SOLID(SRP_OCP)\obj\Debug\22.02.SOLID(SRP_OCP).pdb

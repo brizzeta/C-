@@ -1,0 +1,8 @@
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\bin\Debug\21.02.Anonym_method.exe.config
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\bin\Debug\21.02.Anonym_method.exe
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\bin\Debug\21.02.Anonym_method.pdb
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\obj\Debug\21.02.Anonym_method.csproj.AssemblyReference.cache
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\obj\Debug\21.02.Anonym_method.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\obj\Debug\21.02.Anonym_method.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\obj\Debug\21.02.Anonym_method.exe
+C:\Technologies\С#\21.02.Anonym_method\21.02.Anonym_method\obj\Debug\21.02.Anonym_method.pdb

@@ -1,0 +1,8 @@
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\bin\Debug\23.02.SOLID(DIP).exe.config
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\bin\Debug\23.02.SOLID(DIP).exe
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\bin\Debug\23.02.SOLID(DIP).pdb
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\obj\Debug\23.02.SOLID(DIP).csproj.AssemblyReference.cache
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\obj\Debug\23.02.SOLID(DIP).csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\obj\Debug\23.02.SOLID(DIP).csproj.CoreCompileInputs.cache
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\obj\Debug\23.02.SOLID(DIP).exe
+C:\Technologies\С#\23.02.SOLID(DIP)\23.02.SOLID(DIP)\obj\Debug\23.02.SOLID(DIP).pdb

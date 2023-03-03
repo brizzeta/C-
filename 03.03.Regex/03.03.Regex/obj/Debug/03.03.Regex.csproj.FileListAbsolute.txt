@@ -1,0 +1,8 @@
+C:\Technologies\С#\03.03.Regex\03.03.Regex\obj\Debug\03.03.Regex.csproj.AssemblyReference.cache
+C:\Technologies\С#\03.03.Regex\03.03.Regex\obj\Debug\03.03.Regex.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\03.03.Regex\03.03.Regex\obj\Debug\03.03.Regex.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\03.03.Regex\03.03.Regex\bin\Debug\03.03.Regex.exe.config
+C:\Technologies\С#\03.03.Regex\03.03.Regex\bin\Debug\03.03.Regex.exe
+C:\Technologies\С#\03.03.Regex\03.03.Regex\bin\Debug\03.03.Regex.pdb
+C:\Technologies\С#\03.03.Regex\03.03.Regex\obj\Debug\03.03.Regex.exe
+C:\Technologies\С#\03.03.Regex\03.03.Regex\obj\Debug\03.03.Regex.pdb

@@ -12,16 +12,12 @@ namespace _21._02.Anonym_method
         delegate int Del2(int x);
         delegate int Del3(int[] x);
         delegate int[] Del4(int[] x);
+        delegate void MyDelegate1(int number1, int number2, int number3);
+        delegate void MyDelegate3();
+        delegate void MyDelegate4(int[] arr);
+        delegate int MyDelegate5(int[] arr, int count_number);
+        delegate bool MyDelegate6(string str1, string word1);
 
-        public class Backpack
-        {
-            public string Color { get; set; }
-            public string Firm { get; set; }
-            public string Textile { get; set; }
-            public double Weight { get; set; }
-            public double Volume { get; set; }
-            
-        }
         static void Laboratory()
         {
             //четность числа
@@ -123,12 +119,145 @@ namespace _21._02.Anonym_method
                 Console.Write(myDel7(el) + " ");
             }
 
-            //
+            ////рюкзак
+            //Backpack obj = new Backpack();
+            //obj.Input();
+            //Console.WriteLine(obj);
+            //MyDelegate3 del = delegate ()
+            //{
+            //    obj.ev += obj.AddItem;
+            //    obj.Event();
+            //};
+            //del();
+            //Console.WriteLine(obj);
+
+            ////3 задание
+            //int[] arr2 = new int[10];
+            //MyDelegate4 Init = (int[] arr) =>
+            //{
+            //    Random rand = new Random();
+            //    for (int i = 0; i < arr.Length; i++)
+            //    {
+            //        arr[i] = rand.Next(1, 20);
+            //    }
+            //};
+
+            //MyDelegate4 Out = (int[] arr) =>
+            //{
+            //    foreach (int i in arr)
+            //    {
+            //        Console.Write(i + " ");
+            //    }
+            //    Console.WriteLine();
+            //};
+
+            //Init(arr2);
+            //Out(arr2);
+
+            //MyDelegate5 countnumber = (int[] arr, int count_number) =>
+            //{
+            //    count_number = arr.Length;
+            //    return count_number;
+            //};
+
+            //int count = 0;
+
+            //Console.WriteLine(countnumber(arr2, count));
+
+
+            ////4 задание
+            //int[] arr2 = new int[10];
+            //MyDelegate4 Init = (int[] arr) =>
+            //{
+            //    Random rand = new Random();
+            //    for (int i = 0; i < arr.Length; i++)
+            //    {
+            //        arr[i] = rand.Next(-20, 20);
+            //    }
+            //};
+
+            //MyDelegate4 Out = (int[] arr) =>
+            //{
+            //    foreach (int i in arr)
+            //    {
+            //        Console.Write(i + " ");
+            //    }
+            //    Console.WriteLine();
+            //};
+
+            //Init(arr2);
+            //Out(arr2);
+
+            //MyDelegate5 countnumber = (int[] arr, int count_number) =>
+            //{
+            //    foreach (int i in arr)
+            //        if (i >= 0)
+            //        {
+            //            count_number++;
+            //        }
+            //    return count_number;
+            //};
+
+            //int count = 0;
+
+            //Console.WriteLine(countnumber(arr2, count));
+
+
+            ////5 задание
+            //int[] arr2 = new int[10];
+            //MyDelegate4 Init = (int[] arr) =>
+            //{
+            //    Random rand = new Random();
+            //    for (int i = 0; i < arr.Length; i++)
+            //    {
+            //        arr[i] = rand.Next(-20, 20);
+            //    }
+            //};
+
+            //MyDelegate4 Out = (int[] arr) =>
+            //{
+            //    foreach (int i in arr)
+            //    {
+            //        Console.Write(i + " ");
+            //    }
+            //    Console.WriteLine();
+            //};
+
+            //Init(arr2);
+            //Out(arr2);
+
+            //MyDelegate5 countnumber = (int[] arr, int count_number) =>
+            //{
+            //    foreach (int i in arr)
+            //        if (i < 0)
+            //        {
+            //            count_number++;
+            //        }
+            //    return count_number;
+            //};
+
+            //int count = 0;
+
+            //Console.WriteLine(countnumber(arr2, count));
+
+
+
+            ////6 задание
+            //string str;
+            //string[] str2;
+            //string word;
+            //Console.WriteLine("Enter text");
+            //str = Console.ReadLine();
+            //str2 = str.Split(' ');
+            //Console.WriteLine("Enter word for the search");
+            //word = Console.ReadLine();
+            //MyDelegate6 search = (string str1, string word1) => str2.Contains(word1);
+            //Console.WriteLine(search(str, word));
         }
         static void Main(string[] args)
         {
-            Laboratory();
-
+            //Laboratory();
+            HW();
         }
     }
 }

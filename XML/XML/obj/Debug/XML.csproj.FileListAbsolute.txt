@@ -1,0 +1,8 @@
+C:\Technologies\С#\XML\XML\bin\Debug\XML.exe.config
+C:\Technologies\С#\XML\XML\bin\Debug\XML.exe
+C:\Technologies\С#\XML\XML\bin\Debug\XML.pdb
+C:\Technologies\С#\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Technologies\С#\XML\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\XML\XML\obj\Debug\XML.exe
+C:\Technologies\С#\XML\XML\obj\Debug\XML.pdb

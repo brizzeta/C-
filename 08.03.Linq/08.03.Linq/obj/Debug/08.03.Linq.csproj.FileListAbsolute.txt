@@ -1,0 +1,8 @@
+C:\Technologies\С#\08.03.Linq\08.03.Linq\bin\Debug\08.03.Linq.exe.config
+C:\Technologies\С#\08.03.Linq\08.03.Linq\bin\Debug\08.03.Linq.exe
+C:\Technologies\С#\08.03.Linq\08.03.Linq\bin\Debug\08.03.Linq.pdb
+C:\Technologies\С#\08.03.Linq\08.03.Linq\obj\Debug\08.03.Linq.csproj.AssemblyReference.cache
+C:\Technologies\С#\08.03.Linq\08.03.Linq\obj\Debug\08.03.Linq.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\08.03.Linq\08.03.Linq\obj\Debug\08.03.Linq.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\08.03.Linq\08.03.Linq\obj\Debug\08.03.Linq.exe
+C:\Technologies\С#\08.03.Linq\08.03.Linq\obj\Debug\08.03.Linq.pdb

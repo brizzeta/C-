@@ -1,0 +1,8 @@
+C:\Technologies\С#\09.03.Translator\09.03.Translator\bin\Debug\09.03.Translator.exe.config
+C:\Technologies\С#\09.03.Translator\09.03.Translator\bin\Debug\09.03.Translator.exe
+C:\Technologies\С#\09.03.Translator\09.03.Translator\bin\Debug\09.03.Translator.pdb
+C:\Technologies\С#\09.03.Translator\09.03.Translator\obj\Debug\09.03.Translator.csproj.AssemblyReference.cache
+C:\Technologies\С#\09.03.Translator\09.03.Translator\obj\Debug\09.03.Translator.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\09.03.Translator\09.03.Translator\obj\Debug\09.03.Translator.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\09.03.Translator\09.03.Translator\obj\Debug\09.03.Translator.exe
+C:\Technologies\С#\09.03.Translator\09.03.Translator\obj\Debug\09.03.Translator.pdb

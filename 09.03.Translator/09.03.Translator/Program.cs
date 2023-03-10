@@ -10,6 +10,8 @@ namespace _09._03.Translator
     {
         static void Main(string[] args)
         {
+            Eng_Russ e = new Eng_Russ();
+            e.Delete();
         }
     }
 }

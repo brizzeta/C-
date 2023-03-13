@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Eng_Russ>
-  <word eng="apple">
+  <word eng="Apple">
     <russ>Яблоко</russ>
   </word>
   <word eng="Cat">
     <russ>Кошка</russ>
+  </word>
+  <word eng="Dog">
+    <russ>Собака</russ>
+    <russ>собака</russ>
+  </word>
+  <word eng="Table">
+    <russ>Стол</russ>
   </word>
 </Eng_Russ>

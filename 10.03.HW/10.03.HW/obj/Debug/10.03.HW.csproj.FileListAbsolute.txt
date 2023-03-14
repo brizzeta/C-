@@ -1,0 +1,8 @@
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\bin\Debug\Volkov_HW_26_NET.exe.config
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\bin\Debug\Volkov_HW_26_NET.exe
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\bin\Debug\Volkov_HW_26_NET.pdb
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\obj\Debug\Volkov_HW_26_NET.csproj.AssemblyReference.cache
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\obj\Debug\Volkov_HW_26_NET.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\obj\Debug\Volkov_HW_26_NET.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\obj\Debug\Volkov_HW_26_NET.exe
+D:\Projects\.NET\Volkov_HW_26_NET\Volkov_HW_26_NET\obj\Debug\Volkov_HW_26_NET.pdb

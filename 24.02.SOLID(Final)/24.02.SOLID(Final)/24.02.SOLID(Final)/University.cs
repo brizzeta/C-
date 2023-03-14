@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24._02.SOLID_Final_
+namespace _24_02_SOLID_Final
 {
-    internal class Program
+    internal class University
     {
-        static void Main(string[] args)
-        {
-        }
+        public List<IFaculty> Faculties { get; set; }
     }
 }

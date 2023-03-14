@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6522E2B0-59F8-43D7-95D9-06A36B16CBC1}</ProjectGuid>
+    <ProjectGuid>{0D0C5904-BED6-4F05-8A5B-F25AC31DE3DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_24._02.SOLID_Final_</RootNamespace>
-    <AssemblyName>24.02.SOLID%28Final%29</AssemblyName>
+    <RootNamespace>Volkov_HW_18_NET</RootNamespace>
+    <AssemblyName>Volkov_HW_18_NET</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Human.cs" />
+    <Compile Include="GetDepartmentHeads.cs" />
+    <Compile Include="GetGroupWithoutLeader.cs" />
+    <Compile Include="ISortByTeacher.cs" />
+    <Compile Include="SortByDepartment.cs" />
+    <Compile Include="SortByFaculty.cs" />
+    <Compile Include="Designer.cs" />
+    <Compile Include="IDepartment.cs" />
+    <Compile Include="IFaculty.cs" />
+    <Compile Include="IHuman.cs" />
+    <Compile Include="ISort.cs" />
+    <Compile Include="NonProfileDepartment.cs" />
+    <Compile Include="Parents.cs" />
+    <Compile Include="ProfileDepartment.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programmer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Roster.cs" />
+    <Compile Include="SortByGroup.cs" />
+    <Compile Include="SortByNS.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentGroup.cs" />
+    <Compile Include="Teacher.cs" />
+    <Compile Include="University.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("24.02.SOLID(Final)")]
+[assembly: AssemblyTitle("Volkov_HW_18_NET")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("24.02.SOLID(Final)")]
+[assembly: AssemblyProduct("Volkov_HW_18_NET")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6522e2b0-59f8-43d7-95d9-06a36b16cbc1")]
+[assembly: Guid("0d0c5904-bed6-4f05-8a5b-f25ac31de3df")]
 
 // Version information for an assembly consists of the following four values:
 //

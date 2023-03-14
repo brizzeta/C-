@@ -1,0 +1,8 @@
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\bin\Debug\Volkov_HW_25_NET.exe.config
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\bin\Debug\Volkov_HW_25_NET.exe
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\bin\Debug\Volkov_HW_25_NET.pdb
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\obj\Debug\Volkov_HW_25_NET.csproj.AssemblyReference.cache
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\obj\Debug\Volkov_HW_25_NET.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\obj\Debug\Volkov_HW_25_NET.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\obj\Debug\Volkov_HW_25_NET.exe
+D:\Projects\.NET\Volkov_HW_25_NET\Volkov_HW_25_NET\obj\Debug\Volkov_HW_25_NET.pdb

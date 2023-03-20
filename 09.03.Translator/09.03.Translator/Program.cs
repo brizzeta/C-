@@ -30,6 +30,7 @@ namespace _09._03.Translator
             string answ2;
             do
             {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("МЕНЮ\n");
                 Console.Write("Работать с русско-английским или англо-русским словарем?(1/2): ");
                 string answ = Console.ReadLine();

@@ -1,0 +1,3 @@
+C:\Technologies\С#\20.03.Factory_method\20.03.Factory_method\obj\Debug\20.03.Factory_method.csproj.AssemblyReference.cache
+C:\Technologies\С#\20.03.Factory_method\20.03.Factory_method\obj\Debug\20.03.Factory_method.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\20.03.Factory_method\20.03.Factory_method\obj\Debug\20.03.Factory_method.csproj.CoreCompileInputs.cache

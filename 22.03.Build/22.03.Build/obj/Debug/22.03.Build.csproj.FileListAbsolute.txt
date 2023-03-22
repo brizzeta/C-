@@ -1,0 +1,8 @@
+C:\Technologies\С#\22.03.Build\22.03.Build\bin\Debug\22.03.Build.exe.config
+C:\Technologies\С#\22.03.Build\22.03.Build\bin\Debug\22.03.Build.exe
+C:\Technologies\С#\22.03.Build\22.03.Build\bin\Debug\22.03.Build.pdb
+C:\Technologies\С#\22.03.Build\22.03.Build\obj\Debug\22.03.Build.csproj.AssemblyReference.cache
+C:\Technologies\С#\22.03.Build\22.03.Build\obj\Debug\22.03.Build.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\22.03.Build\22.03.Build\obj\Debug\22.03.Build.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\22.03.Build\22.03.Build\obj\Debug\22.03.Build.exe
+C:\Technologies\С#\22.03.Build\22.03.Build\obj\Debug\22.03.Build.pdb

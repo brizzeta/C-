@@ -1,0 +1,8 @@
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\bin\Debug\21.03.Abstract_Factory.exe.config
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\bin\Debug\21.03.Abstract_Factory.exe
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\bin\Debug\21.03.Abstract_Factory.pdb
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\obj\Debug\21.03.Abstract_Factory.csproj.AssemblyReference.cache
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\obj\Debug\21.03.Abstract_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\obj\Debug\21.03.Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\obj\Debug\21.03.Abstract_Factory.exe
+C:\Technologies\С#\21.03.Abstract_Factory\21.03.Abstract_Factory\obj\Debug\21.03.Abstract_Factory.pdb

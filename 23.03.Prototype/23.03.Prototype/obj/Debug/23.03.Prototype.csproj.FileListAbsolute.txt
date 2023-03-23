@@ -1,0 +1,8 @@
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\bin\Debug\23.03.Prototype.exe.config
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\bin\Debug\23.03.Prototype.exe
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\bin\Debug\23.03.Prototype.pdb
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\obj\Debug\23.03.Prototype.csproj.AssemblyReference.cache
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\obj\Debug\23.03.Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\obj\Debug\23.03.Prototype.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\obj\Debug\23.03.Prototype.exe
+C:\Technologies\С#\23.03.Prototype\23.03.Prototype\obj\Debug\23.03.Prototype.pdb

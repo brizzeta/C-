@@ -1,0 +1,8 @@
+C:\Technologies\С#\24.03.Composite\24.03.Composite\bin\Debug\24.03.Composite.exe.config
+C:\Technologies\С#\24.03.Composite\24.03.Composite\bin\Debug\24.03.Composite.exe
+C:\Technologies\С#\24.03.Composite\24.03.Composite\bin\Debug\24.03.Composite.pdb
+C:\Technologies\С#\24.03.Composite\24.03.Composite\obj\Debug\24.03.Composite.csproj.AssemblyReference.cache
+C:\Technologies\С#\24.03.Composite\24.03.Composite\obj\Debug\24.03.Composite.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\24.03.Composite\24.03.Composite\obj\Debug\24.03.Composite.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\24.03.Composite\24.03.Composite\obj\Debug\24.03.Composite.exe
+C:\Technologies\С#\24.03.Composite\24.03.Composite\obj\Debug\24.03.Composite.pdb

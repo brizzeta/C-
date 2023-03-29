@@ -1,0 +1,8 @@
+C:\Technologies\С#\29.03.Command\29.03.Command\bin\Debug\29.03.Command.exe.config
+C:\Technologies\С#\29.03.Command\29.03.Command\bin\Debug\29.03.Command.exe
+C:\Technologies\С#\29.03.Command\29.03.Command\bin\Debug\29.03.Command.pdb
+C:\Technologies\С#\29.03.Command\29.03.Command\obj\Debug\29.03.Command.csproj.AssemblyReference.cache
+C:\Technologies\С#\29.03.Command\29.03.Command\obj\Debug\29.03.Command.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\29.03.Command\29.03.Command\obj\Debug\29.03.Command.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\29.03.Command\29.03.Command\obj\Debug\29.03.Command.exe
+C:\Technologies\С#\29.03.Command\29.03.Command\obj\Debug\29.03.Command.pdb

@@ -1,0 +1,16 @@
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.exe.config
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.exe
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.pdb
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.AssemblyReference.cache
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.exe
+C:\Technologies\С#\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\obj\Debug\27.03.Decorator.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.exe.config
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\27.03.Decorator\27.03.Decorator\bin\Debug\27.03.Decorator.pdb

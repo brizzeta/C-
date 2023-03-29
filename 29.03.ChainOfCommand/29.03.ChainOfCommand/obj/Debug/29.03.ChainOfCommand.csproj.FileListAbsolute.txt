@@ -1,0 +1,8 @@
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\bin\Debug\29.03.ChainOfCommand.exe.config
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\bin\Debug\29.03.ChainOfCommand.exe
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\bin\Debug\29.03.ChainOfCommand.pdb
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\obj\Debug\29.03.ChainOfCommand.csproj.AssemblyReference.cache
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\obj\Debug\29.03.ChainOfCommand.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\obj\Debug\29.03.ChainOfCommand.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\obj\Debug\29.03.ChainOfCommand.exe
+C:\Technologies\С#\29.03.ChainOfCommand\29.03.ChainOfCommand\obj\Debug\29.03.ChainOfCommand.pdb

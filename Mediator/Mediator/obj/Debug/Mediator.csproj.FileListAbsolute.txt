@@ -1,0 +1,8 @@
+C:\Technologies\С#\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Technologies\С#\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Technologies\С#\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Technologies\С#\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Technologies\С#\Mediator\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Technologies\С#\Mediator\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,8 @@
+C:\Technologies\С#\03.04.State\03.04.State\obj\Debug\03.04.State.csproj.AssemblyReference.cache
+C:\Technologies\С#\03.04.State\03.04.State\obj\Debug\03.04.State.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\03.04.State\03.04.State\obj\Debug\03.04.State.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\03.04.State\03.04.State\bin\Debug\03.04.State.exe.config
+C:\Technologies\С#\03.04.State\03.04.State\bin\Debug\03.04.State.exe
+C:\Technologies\С#\03.04.State\03.04.State\bin\Debug\03.04.State.pdb
+C:\Technologies\С#\03.04.State\03.04.State\obj\Debug\03.04.State.exe
+C:\Technologies\С#\03.04.State\03.04.State\obj\Debug\03.04.State.pdb

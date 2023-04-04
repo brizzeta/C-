@@ -1,0 +1,8 @@
+C:\Technologies\С#\31.03.Observer\31.03.Observer\bin\Debug\31.03.Observer.exe.config
+C:\Technologies\С#\31.03.Observer\31.03.Observer\bin\Debug\31.03.Observer.exe
+C:\Technologies\С#\31.03.Observer\31.03.Observer\bin\Debug\31.03.Observer.pdb
+C:\Technologies\С#\31.03.Observer\31.03.Observer\obj\Debug\31.03.Observer.csproj.AssemblyReference.cache
+C:\Technologies\С#\31.03.Observer\31.03.Observer\obj\Debug\31.03.Observer.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\31.03.Observer\31.03.Observer\obj\Debug\31.03.Observer.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\31.03.Observer\31.03.Observer\obj\Debug\31.03.Observer.exe
+C:\Technologies\С#\31.03.Observer\31.03.Observer\obj\Debug\31.03.Observer.pdb

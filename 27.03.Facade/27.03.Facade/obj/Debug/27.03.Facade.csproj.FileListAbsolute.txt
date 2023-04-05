@@ -1,0 +1,8 @@
+C:\Technologies\С#\27.03.Facade\27.03.Facade\bin\Debug\27.03.Facade.exe.config
+C:\Technologies\С#\27.03.Facade\27.03.Facade\bin\Debug\27.03.Facade.exe
+C:\Technologies\С#\27.03.Facade\27.03.Facade\bin\Debug\27.03.Facade.pdb
+C:\Technologies\С#\27.03.Facade\27.03.Facade\obj\Debug\27.03.Facade.csproj.AssemblyReference.cache
+C:\Technologies\С#\27.03.Facade\27.03.Facade\obj\Debug\27.03.Facade.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\27.03.Facade\27.03.Facade\obj\Debug\27.03.Facade.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\27.03.Facade\27.03.Facade\obj\Debug\27.03.Facade.exe
+C:\Technologies\С#\27.03.Facade\27.03.Facade\obj\Debug\27.03.Facade.pdb

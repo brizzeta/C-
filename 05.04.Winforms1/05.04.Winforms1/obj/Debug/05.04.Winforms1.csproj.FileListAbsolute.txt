@@ -1,0 +1,11 @@
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\bin\Debug\05.04.Winforms1.exe.config
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\bin\Debug\05.04.Winforms1.exe
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\bin\Debug\05.04.Winforms1.pdb
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.csproj.AssemblyReference.cache
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\_05._04.Winforms1.Form1.resources
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\_05._04.Winforms1.Properties.Resources.resources
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.csproj.GenerateResource.cache
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.exe
+C:\Technologies\С#\05.04.Winforms1\05.04.Winforms1\obj\Debug\05.04.Winforms1.pdb

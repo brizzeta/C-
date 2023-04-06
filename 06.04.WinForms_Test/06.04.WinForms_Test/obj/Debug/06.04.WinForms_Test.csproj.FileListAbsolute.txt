@@ -1,0 +1,11 @@
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\bin\Debug\06.04.WinForms_Test.exe.config
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\bin\Debug\06.04.WinForms_Test.exe
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\bin\Debug\06.04.WinForms_Test.pdb
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.csproj.AssemblyReference.cache
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\_06._04.WinForms_Test.Form1.resources
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\_06._04.WinForms_Test.Properties.Resources.resources
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.csproj.GenerateResource.cache
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.exe
+C:\Technologies\С#\06.04.WinForms_Test\06.04.WinForms_Test\obj\Debug\06.04.WinForms_Test.pdb

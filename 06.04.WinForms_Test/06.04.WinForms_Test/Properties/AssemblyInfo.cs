@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("20.03.Mediator")]
+[assembly: AssemblyTitle("06.04.WinForms_Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("20.03.Mediator")]
+[assembly: AssemblyProduct("06.04.WinForms_Test")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a5bbeb05-7a49-40ae-b1fa-87a343b77a4a")]
+[assembly: Guid("35e38070-7aa4-4854-8271-83737634c4e9")]
 
 // Version information for an assembly consists of the following four values:
 //

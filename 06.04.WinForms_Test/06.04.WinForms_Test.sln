@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.03.Mediator", "20.03.Mediator\20.03.Mediator.csproj", "{A5BBEB05-7A49-40AE-B1FA-87A343B77A4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.04.WinForms_Test", "06.04.WinForms_Test\06.04.WinForms_Test.csproj", "{35E38070-7AA4-4854-8271-83737634C4E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A5BBEB05-7A49-40AE-B1FA-87A343B77A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A5BBEB05-7A49-40AE-B1FA-87A343B77A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A5BBEB05-7A49-40AE-B1FA-87A343B77A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A5BBEB05-7A49-40AE-B1FA-87A343B77A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E38070-7AA4-4854-8271-83737634C4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E38070-7AA4-4854-8271-83737634C4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E38070-7AA4-4854-8271-83737634C4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E38070-7AA4-4854-8271-83737634C4E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AECC211F-F2CE-43F2-8FFC-A660176F0797}
+		SolutionGuid = {EFDD9743-263D-4689-977F-725498812706}
 	EndGlobalSection
 EndGlobal

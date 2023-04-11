@@ -1,0 +1,14 @@
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\bin\Debug\07.04.WinForms_Gas_Station.exe.config
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\bin\Debug\07.04.WinForms_Gas_Station.exe
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\bin\Debug\07.04.WinForms_Gas_Station.pdb
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.csproj.AssemblyReference.cache
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\_07._04.WinForms_Gas_Station.Form1.resources
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\_07._04.WinForms_Gas_Station.Properties.Resources.resources
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.csproj.GenerateResource.cache
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.exe
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\07.04.WinForms_Gas_Station.pdb
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\_07._04.WinForms_Gas_Station.Form_Cafe.resources
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\_07._04.WinForms_Gas_Station.Form_Gas.resources
+C:\Technologies\С#\07.04.WinForms_Gas_Station\07.04.WinForms_Gas_Station\obj\Debug\_07._04.WinForms_Gas_Station.Form_Edit.resources

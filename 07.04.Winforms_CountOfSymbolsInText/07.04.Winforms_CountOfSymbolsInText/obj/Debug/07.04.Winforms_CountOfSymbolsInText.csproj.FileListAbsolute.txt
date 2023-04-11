@@ -1,0 +1,11 @@
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\bin\Debug\07.04.Winforms_CountOfSymbolsInText.exe.config
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\bin\Debug\07.04.Winforms_CountOfSymbolsInText.exe
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\bin\Debug\07.04.Winforms_CountOfSymbolsInText.pdb
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.csproj.AssemblyReference.cache
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\_07._04.Winforms_CountOfSymbolsInText.Form1.resources
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\_07._04.Winforms_CountOfSymbolsInText.Properties.Resources.resources
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.csproj.GenerateResource.cache
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.exe
+C:\Technologies\С#\07.04.Winforms_CountOfSymbolsInText\07.04.Winforms_CountOfSymbolsInText\obj\Debug\07.04.Winforms_CountOfSymbolsInText.pdb

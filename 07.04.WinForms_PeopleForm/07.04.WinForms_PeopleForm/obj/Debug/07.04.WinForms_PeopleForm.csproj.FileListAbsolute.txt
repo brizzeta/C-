@@ -1,0 +1,11 @@
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\bin\Debug\07.04.WinForms_PeopleForm.exe.config
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\bin\Debug\07.04.WinForms_PeopleForm.exe
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\bin\Debug\07.04.WinForms_PeopleForm.pdb
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.csproj.AssemblyReference.cache
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\_07._04.WinForms_PeopleForm.Form1.resources
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\_07._04.WinForms_PeopleForm.Properties.Resources.resources
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.csproj.GenerateResource.cache
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.exe
+C:\Technologies\С#\07.04.WinForms_PeopleForm\07.04.WinForms_PeopleForm\obj\Debug\07.04.WinForms_PeopleForm.pdb

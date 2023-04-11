@@ -1,0 +1,12 @@
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\bin\Debug\11.04.Modal_dialog.exe.config
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\bin\Debug\11.04.Modal_dialog.exe
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\bin\Debug\11.04.Modal_dialog.pdb
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.csproj.AssemblyReference.cache
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\_11._04.Modal_dialog.Form1.resources
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\_11._04.Modal_dialog.Form2.resources
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\_11._04.Modal_dialog.Properties.Resources.resources
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.csproj.GenerateResource.cache
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.exe
+C:\Technologies\С#\11.04.Modal_dialog\11.04.Modal_dialog\obj\Debug\11.04.Modal_dialog.pdb

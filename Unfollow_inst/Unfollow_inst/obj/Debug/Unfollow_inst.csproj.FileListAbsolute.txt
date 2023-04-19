@@ -1,0 +1,11 @@
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\bin\Debug\Unfollow_inst.exe.config
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\bin\Debug\Unfollow_inst.exe
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\bin\Debug\Unfollow_inst.pdb
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\bin\Debug\Newtonsoft.Json.dll
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\bin\Debug\Newtonsoft.Json.xml
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.csproj.AssemblyReference.cache
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.csproj.CopyComplete
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.exe
+C:\Technologies\С#\Unfollow_inst\Unfollow_inst\obj\Debug\Unfollow_inst.pdb

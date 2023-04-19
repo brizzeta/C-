@@ -1,0 +1,11 @@
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\bin\Debug\14.04.WinForms_Millioner_GAME.exe.config
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\bin\Debug\14.04.WinForms_Millioner_GAME.exe
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\bin\Debug\14.04.WinForms_Millioner_GAME.pdb
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.csproj.AssemblyReference.cache
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\_14._04.WinForms_Millioner_GAME.Form1.resources
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\_14._04.WinForms_Millioner_GAME.Properties.Resources.resources
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.csproj.GenerateResource.cache
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.exe
+C:\Technologies\С#\14.04.WinForms_Millioner_GAME\14.04.WinForms_Millioner_GAME\obj\Debug\14.04.WinForms_Millioner_GAME.pdb

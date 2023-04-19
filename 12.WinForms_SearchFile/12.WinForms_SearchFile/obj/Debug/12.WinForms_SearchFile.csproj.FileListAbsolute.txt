@@ -1,0 +1,11 @@
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\bin\Debug\12.WinForms_SearchFile.exe.config
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\bin\Debug\12.WinForms_SearchFile.exe
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\bin\Debug\12.WinForms_SearchFile.pdb
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.csproj.AssemblyReference.cache
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\_12.WinForms_SearchFile.Form1.resources
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\_12.WinForms_SearchFile.Properties.Resources.resources
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.csproj.GenerateResource.cache
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.exe
+C:\Technologies\С#\12.WinForms_SearchFile\12.WinForms_SearchFile\obj\Debug\12.WinForms_SearchFile.pdb

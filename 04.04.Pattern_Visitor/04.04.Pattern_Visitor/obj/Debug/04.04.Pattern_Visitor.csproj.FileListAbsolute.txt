@@ -1,0 +1,8 @@
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\bin\Debug\04.04.Pattern_Visitor.exe.config
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\bin\Debug\04.04.Pattern_Visitor.exe
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\bin\Debug\04.04.Pattern_Visitor.pdb
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\obj\Debug\04.04.Pattern_Visitor.csproj.AssemblyReference.cache
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\obj\Debug\04.04.Pattern_Visitor.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\obj\Debug\04.04.Pattern_Visitor.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\obj\Debug\04.04.Pattern_Visitor.exe
+C:\Technologies\С#\04.04.Pattern_Visitor\04.04.Pattern_Visitor\obj\Debug\04.04.Pattern_Visitor.pdb

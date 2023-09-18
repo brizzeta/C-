@@ -1,0 +1,5 @@
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net6.0\Serialize.csproj.AssemblyReference.cache
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net6.0\Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net6.0\Serialize.AssemblyInfoInputs.cache
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net6.0\Serialize.AssemblyInfo.cs
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net6.0\Serialize.csproj.CoreCompileInputs.cache

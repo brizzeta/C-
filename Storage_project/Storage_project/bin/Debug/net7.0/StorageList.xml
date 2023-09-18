@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storage xsi:type="HDD">
+    <Manufacturer>edvwdv</Manufacturer>
+    <Name>erg</Name>
+    <Model>erbgerb</Model>
+    <Capacity>3</Capacity>
+    <Count>4</Count>
+    <Spindle_Speed>5</Spindle_Speed>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>rgtbnwertbn</Manufacturer>
+    <Name>rwtbnrwggn</Name>
+    <Model>tbwrgbn</Model>
+    <Capacity>2</Capacity>
+    <Count>3</Count>
+    <USB_Speed>4</USB_Speed>
+  </Storage>
+  <Storage xsi:type="DVD">
+    <Manufacturer>dtyntdyn</Manufacturer>
+    <Name>rynrey</Name>
+    <Model>rtyntrn</Model>
+    <Capacity>3</Capacity>
+    <Count>5</Count>
+    <Write_Speed>6</Write_Speed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>wrvbwrv</Manufacturer>
+    <Name>wrvbwrbv</Name>
+    <Model>wrvbwrvb</Model>
+    <Capacity>2</Capacity>
+    <Count>3</Count>
+    <Spindle_Speed>6</Spindle_Speed>
+  </Storage>
+</ArrayOfStorage>

@@ -1,0 +1,12 @@
+C:\Technologies\С#\Storage\Logs\Logs\bin\Debug\net7.0\Logs.deps.json
+C:\Technologies\С#\Storage\Logs\Logs\bin\Debug\net7.0\Logs.dll
+C:\Technologies\С#\Storage\Logs\Logs\bin\Debug\net7.0\Logs.pdb
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.csproj.AssemblyReference.cache
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.AssemblyInfoInputs.cache
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.AssemblyInfo.cs
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.dll
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\refint\Logs.dll
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\Logs.pdb
+C:\Technologies\С#\Storage\Logs\Logs\obj\Debug\net7.0\ref\Logs.dll

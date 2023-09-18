@@ -1,0 +1,15 @@
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.csproj.AssemblyReference.cache
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.AssemblyInfoInputs.cache
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.AssemblyInfo.cs
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Serialize\Serialize\bin\Debug\net7.0\Serialize.deps.json
+C:\Technologies\С#\Serialize\Serialize\bin\Debug\net7.0\Serialize.dll
+C:\Technologies\С#\Serialize\Serialize\bin\Debug\net7.0\Serialize.pdb
+C:\Technologies\С#\Serialize\Serialize\bin\Debug\net7.0\Storage_dll.dll
+C:\Technologies\С#\Serialize\Serialize\bin\Debug\net7.0\Storage_dll.pdb
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.csproj.CopyComplete
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.dll
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\refint\Serialize.dll
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\Serialize.pdb
+C:\Technologies\С#\Serialize\Serialize\obj\Debug\net7.0\ref\Serialize.dll

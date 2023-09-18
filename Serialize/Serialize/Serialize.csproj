@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Storage_dll">
+      <HintPath>..\..\Storage_dll\Storage_dll\bin\Debug\net7.0\Storage_dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Technologies\С#\Storage_dll\Storage_dll\bin\Debug\net7.0\Storage_dll.deps.json
+C:\Technologies\С#\Storage_dll\Storage_dll\bin\Debug\net7.0\Storage_dll.dll
+C:\Technologies\С#\Storage_dll\Storage_dll\bin\Debug\net7.0\Storage_dll.pdb
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.csproj.AssemblyReference.cache
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.AssemblyInfoInputs.cache
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.AssemblyInfo.cs
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.dll
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\refint\Storage_dll.dll
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\Storage_dll.pdb
+C:\Technologies\С#\Storage_dll\Storage_dll\obj\Debug\net7.0\ref\Storage_dll.dll

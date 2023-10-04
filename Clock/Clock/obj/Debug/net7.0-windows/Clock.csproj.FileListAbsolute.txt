@@ -1,6 +1,0 @@
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\MechanicalClockApp.Form1.resources
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\Clock.csproj.GenerateResource.cache
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\Clock.AssemblyInfoInputs.cache
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\Clock.AssemblyInfo.cs
-C:\Technologies\С#\Clock\Clock\obj\Debug\net7.0-windows\Clock.csproj.CoreCompileInputs.cache

@@ -1,0 +1,27 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\13.09 Library.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\13.09 Library.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\13.09 Library.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\13.09 Library.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\13.09 Library.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\dje\13.09 Library.resources.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\bin\Debug\net7.0-windows\ru\13.09 Library.resources.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.AddAuthor.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.AddBooks.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.EditAuthor.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.EditBook.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.Form1.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.AddBooks.dje.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\_13._09_Library.AddBooks.ru.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.csproj.GenerateResource.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\dje\13.09 Library.resources.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\ru\13.09 Library.resources.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\refint\13.09 Library.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\13.09 Library.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\13.09 Library\13.09 Library\obj\Debug\net7.0-windows\ref\13.09 Library.dll

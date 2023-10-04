@@ -1,0 +1,15 @@
+C:\Technologies\С#\2_Windows\2_Windows\bin\Debug\net7.0\2_Windows.exe
+C:\Technologies\С#\2_Windows\2_Windows\bin\Debug\net7.0\2_Windows.deps.json
+C:\Technologies\С#\2_Windows\2_Windows\bin\Debug\net7.0\2_Windows.runtimeconfig.json
+C:\Technologies\С#\2_Windows\2_Windows\bin\Debug\net7.0\2_Windows.dll
+C:\Technologies\С#\2_Windows\2_Windows\bin\Debug\net7.0\2_Windows.pdb
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.csproj.AssemblyReference.cache
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.AssemblyInfoInputs.cache
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.AssemblyInfo.cs
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.dll
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\refint\2_Windows.dll
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.pdb
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\2_Windows.genruntimeconfig.cache
+C:\Technologies\С#\2_Windows\2_Windows\obj\Debug\net7.0\ref\2_Windows.dll

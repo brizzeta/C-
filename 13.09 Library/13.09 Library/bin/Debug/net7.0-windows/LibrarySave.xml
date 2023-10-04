@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibraryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Authors>
+    <Author>
+      <NameAutor>Autor1</NameAutor>
+    </Author>
+    <Author>
+      <NameAutor>Autor2</NameAutor>
+    </Author>
+    <Author>
+      <NameAutor>Autor3</NameAutor>
+    </Author>
+  </Authors>
+  <Books>
+    <Book>
+      <NameBook>Book1</NameBook>
+      <AuthorBook>
+        <NameAutor>Autor1</NameAutor>
+      </AuthorBook>
+    </Book>
+    <Book>
+      <NameBook>Book2</NameBook>
+      <AuthorBook>
+        <NameAutor>Autor2</NameAutor>
+      </AuthorBook>
+    </Book>
+    <Book>
+      <NameBook>Book3</NameBook>
+      <AuthorBook>
+        <NameAutor>Autor3</NameAutor>
+      </AuthorBook>
+    </Book>
+  </Books>
+</LibraryData>

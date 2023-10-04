@@ -131,13 +131,13 @@
             // listBox1
             // 
             this.listBox1.BackColor = System.Drawing.SystemColors.WindowText;
-            this.listBox1.Enabled = false;
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.listBox1.ForeColor = System.Drawing.Color.Yellow;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(821, 74);
             this.listBox1.Name = "listBox1";
+            this.listBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.listBox1.Size = new System.Drawing.Size(232, 664);
             this.listBox1.TabIndex = 2;
             // 

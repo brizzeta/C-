@@ -1,0 +1,17 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\bin\Debug\net7.0-windows\11.09 TicTacToe.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\bin\Debug\net7.0-windows\11.09 TicTacToe.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\bin\Debug\net7.0-windows\11.09 TicTacToe.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\bin\Debug\net7.0-windows\11.09 TicTacToe.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\bin\Debug\net7.0-windows\11.09 TicTacToe.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\Tictactoe.Form1.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.csproj.GenerateResource.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\refint\11.09 TicTacToe.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\11.09 TicTacToe.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\11.09 TicTacToe\11.09 TicTacToe\obj\Debug\net7.0-windows\ref\11.09 TicTacToe.dll

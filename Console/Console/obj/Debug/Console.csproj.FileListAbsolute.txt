@@ -1,0 +1,8 @@
+C:\Technologies\С#\Console\Console\bin\Debug\Console.exe.config
+C:\Technologies\С#\Console\Console\bin\Debug\Console.exe
+C:\Technologies\С#\Console\Console\bin\Debug\Console.pdb
+C:\Technologies\С#\Console\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\Technologies\С#\Console\Console\obj\Debug\Console.csproj.SuggestedBindingRedirects.cache
+C:\Technologies\С#\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\Console\Console\obj\Debug\Console.exe
+C:\Technologies\С#\Console\Console\obj\Debug\Console.pdb

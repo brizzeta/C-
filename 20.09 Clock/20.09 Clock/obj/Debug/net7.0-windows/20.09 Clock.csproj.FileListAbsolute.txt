@@ -1,0 +1,17 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\bin\Debug\net7.0-windows\20.09 Clock.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\bin\Debug\net7.0-windows\20.09 Clock.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\bin\Debug\net7.0-windows\20.09 Clock.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\bin\Debug\net7.0-windows\20.09 Clock.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\bin\Debug\net7.0-windows\20.09 Clock.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\_20._09_Clock.Form1.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.csproj.GenerateResource.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\refint\20.09 Clock.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\20.09 Clock.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\20.09 Clock\20.09 Clock\obj\Debug\net7.0-windows\ref\20.09 Clock.dll

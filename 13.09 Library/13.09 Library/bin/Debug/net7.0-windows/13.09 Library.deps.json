@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "13.09 Library/1.0.0": {
+        "runtime": {
+          "13.09 Library.dll": {}
+        },
+        "resources": {
+          "dje/13.09 Library.resources.dll": {
+            "locale": "dje"
+          },
+          "ru/13.09 Library.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13.09 Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

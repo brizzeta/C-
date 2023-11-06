@@ -1,0 +1,20 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\bin\Debug\net7.0-windows\11.10 Register.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\bin\Debug\net7.0-windows\11.10 Register.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\bin\Debug\net7.0-windows\11.10 Register.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\bin\Debug\net7.0-windows\11.10 Register.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\bin\Debug\net7.0-windows\11.10 Register.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\refint\11.10 Register.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\11.10 Register.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\11.10 Register\11.10 Register\obj\Debug\net7.0-windows\ref\11.10 Register.dll

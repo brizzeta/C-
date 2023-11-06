@@ -1,0 +1,20 @@
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\bin\Debug\net7.0-windows\1 Notebook. Binding.exe
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\bin\Debug\net7.0-windows\1 Notebook. Binding.deps.json
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\bin\Debug\net7.0-windows\1 Notebook. Binding.runtimeconfig.json
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\bin\Debug\net7.0-windows\1 Notebook. Binding.dll
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\bin\Debug\net7.0-windows\1 Notebook. Binding.pdb
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\App.g.cs
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding_MarkupCompile.cache
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding_MarkupCompile.lref
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.g.resources
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.AssemblyInfoInputs.cache
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.AssemblyInfo.cs
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.dll
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\refint\1 Notebook. Binding.dll
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.pdb
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\1 Notebook. Binding.genruntimeconfig.cache
+C:\Technologies\С#\1 Notebook. Binding\1 Notebook. Binding\obj\Debug\net7.0-windows\ref\1 Notebook. Binding.dll

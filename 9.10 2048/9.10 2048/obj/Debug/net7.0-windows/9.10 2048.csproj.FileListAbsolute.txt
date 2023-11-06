@@ -1,0 +1,20 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\refint\9.10 2048.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\ref\9.10 2048.dll

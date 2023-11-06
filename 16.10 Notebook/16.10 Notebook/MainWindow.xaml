@@ -1,0 +1,69 @@
+﻿<Window x:Class="_16._10_Notebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_16._10_Notebook"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:NotebookInformation x:Key="notebook"/>
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="local:AddCommand.Add" Executed="Add" CanExecute="AddExecute"/>
+        <CommandBinding Command="local:SaveJson.Save" Executed="SaveJson" CanExecute="SaveJsonExecute"/>
+        <CommandBinding Command="local:LoadJson.Load" Executed="LoadJson"/>
+        <CommandBinding Command="local:DeleteCommand.Delete" Executed="Delete" CanExecute="DeleteExecute"/>
+        <CommandBinding Command="local:EditCommand.Edit" Executed="Edit" CanExecute="EditExecute"/>
+    </Window.CommandBindings>
+    <Grid DataContext="{StaticResource notebook}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.05*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Файл">
+                <MenuItem Header="Сохранить" Command="local:SaveJson.Save"/>
+                <MenuItem Header="Загрузка" Command="local:LoadJson.Load"/>
+            </MenuItem>
+            <MenuItem Header="Редактировать">
+                <MenuItem Header="Удалить" Command="local:DeleteCommand.Delete"/>
+                <MenuItem Header="Редактировать" Command="local:EditCommand.Edit"/>
+            </MenuItem>
+        </Menu>
+        <ListBox x:Name="Info" ItemsSource="{Binding Notebooks}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectedIndex="{Binding Index_selected_listbox, Mode=TwoWay}" Grid.Row="1">
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding FullName}" FontSize="15" Foreground="Black" FontWeight="Bold"/>
+                        <TextBlock Text="{Binding Address}" FontSize="15" Foreground="Black"/>
+                        <TextBlock Text="{Binding Phone}" FontSize="15" Foreground="Black"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+        </ListBox>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBox Margin="5" Text="{Binding InfoFullName}"/>
+            <TextBox Margin="5" Grid.Column="1" Text="{Binding InfoAddress}"/>
+            <TextBox Margin="5" Grid.Column="2" Text="{Binding InfoPhone}"/>
+            <Button Grid.Column="3" Margin="5" Content="Добавить" Command="local:AddCommand.Add"/>
+        </Grid>
+    </Grid>
+</Window>

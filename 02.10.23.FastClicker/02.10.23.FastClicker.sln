@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.10.23.FastClicker", "02.10.23.FastClicker\02.10.23.FastClicker.csproj", "{BFA19647-E00D-4883-8263-BB718FC38519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA19647-E00D-4883-8263-BB718FC38519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA19647-E00D-4883-8263-BB718FC38519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA19647-E00D-4883-8263-BB718FC38519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA19647-E00D-4883-8263-BB718FC38519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76515B5B-99DC-45EC-A65D-5FACCA876769}
+	EndGlobalSection
+EndGlobal

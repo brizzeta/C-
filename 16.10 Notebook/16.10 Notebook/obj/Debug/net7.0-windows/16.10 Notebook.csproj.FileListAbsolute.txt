@@ -1,0 +1,21 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\bin\Debug\net7.0-windows\16.10 Notebook.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\bin\Debug\net7.0-windows\16.10 Notebook.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\bin\Debug\net7.0-windows\16.10 Notebook.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\bin\Debug\net7.0-windows\16.10 Notebook.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\bin\Debug\net7.0-windows\16.10 Notebook.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\refint\16.10 Notebook.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\16.10 Notebook.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\16.10 Notebook\16.10 Notebook\obj\Debug\net7.0-windows\ref\16.10 Notebook.dll

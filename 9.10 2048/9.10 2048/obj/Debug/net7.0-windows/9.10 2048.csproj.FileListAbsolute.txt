@@ -18,3 +18,23 @@ C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 20
 C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.pdb
 C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.genruntimeconfig.cache
 C:\Users\mrwol\OneDrive\Рабочий стол\дз для Никуси\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\ref\9.10 2048.dll
+C:\Technologies\С#\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.exe
+C:\Technologies\С#\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.deps.json
+C:\Technologies\С#\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.runtimeconfig.json
+C:\Technologies\С#\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.dll
+C:\Technologies\С#\9.10 2048\9.10 2048\bin\Debug\net7.0-windows\9.10 2048.pdb
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\App.g.cs
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048_MarkupCompile.cache
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048_MarkupCompile.lref
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.g.resources
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.AssemblyInfoInputs.cache
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.AssemblyInfo.cs
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.dll
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\refint\9.10 2048.dll
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.pdb
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\9.10 2048.genruntimeconfig.cache
+C:\Technologies\С#\9.10 2048\9.10 2048\obj\Debug\net7.0-windows\ref\9.10 2048.dll

@@ -1,0 +1,149 @@
+﻿<Window x:Class="_1._11_Resume.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1._11_Resume"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520" Width="800" MinHeight="520" MinWidth="800" Background="#A8C3D1">
+    <Window.Resources>
+        <ControlTemplate x:Key="TextBoxTemp" TargetType="{x:Type TextBox}">
+            <Border x:Name="Border" Background="#C4DDE1" CornerRadius="3" BorderThickness="2" BorderBrush="#97A6C0">
+                <Grid>
+                    <Rectangle Visibility="Hidden" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    <ScrollViewer>
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Text}" Background="Transparent" Foreground="Black" BorderThickness="0" VerticalAlignment="Center"/>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"></Setter>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <ControlTemplate x:Key="ButtonTemp" TargetType="{x:Type Button}">
+            <Border TextBlock.Foreground="Black" CornerRadius="5" Background="#C4DDE1" Name="Border" BorderThickness="2" BorderBrush="#97A6C0" Margin="10,10,10,0">
+                <Grid>
+                    <Rectangle Visibility="Hidden" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    <ContentPresenter RecognizesAccessKey="True" Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"></Setter>
+                </Trigger>
+                <Trigger Property="IsEnabled"  Value="False">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <local:MainViewModel x:Key="resumeViewModel"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource resumeViewModel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.65*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="1.12*"/>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.RowSpan="2">
+            <Label Content="ФИО:"/>
+            <TextBox  Text="{Binding Current.Fullname}" Template="{StaticResource TextBoxTemp}"/>
+            <Label Content="Возраст:"/>
+            <TextBox Text="{Binding Current.Age}" Template="{StaticResource TextBoxTemp}"/>
+            <Label  Content="Семейное положение:"/>
+            <TextBox Text="{Binding Current.Family}" Template="{StaticResource TextBoxTemp}"/>
+            <Label  Content="Адрес:"/>
+            <TextBox Text="{Binding Current.Address}" Template="{StaticResource TextBoxTemp}"/>
+            <Label Content="Email:"/>
+            <TextBox Text="{Binding Current.Email}" Template="{StaticResource TextBoxTemp}"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center" Grid.Row="2">
+            <CheckBox IsChecked="{Binding Current.Check1,Mode=TwoWay}" Content="C#"/>
+            <CheckBox IsChecked="{Binding Current.Check2,Mode=TwoWay}" Content="Английский"/>
+            <CheckBox IsChecked="{Binding Current.Check3,Mode=TwoWay}" Content="Испанский"/>
+            <CheckBox IsChecked="{Binding Current.Check4,Mode=TwoWay}" Content="ООП"/>
+            <CheckBox IsChecked="{Binding Current.Check5,Mode=TwoWay}" Content="БД"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Grid.Row="3">
+            <Button Command="{Binding AddCommand}" Content="Добавить" Template="{StaticResource ButtonTemp}"/>
+            <Button Command="{Binding ClearCommand}" Content="Очистить форму" Template="{StaticResource ButtonTemp}"/>
+            <Button Command="{Binding SelectCommand}" Content="Выбрать" Template="{StaticResource ButtonTemp}"/>
+            <Button Command="{Binding RemoveCommand}" Content="Удалить" Template="{StaticResource ButtonTemp}"/>
+            <Button Command="{Binding SaveCommand}" Content="Сохранить в файл" Template="{StaticResource ButtonTemp}"/>
+        </StackPanel>
+        <ComboBox ItemsSource="{Binding ComboPersons}" SelectedIndex="{Binding ComboIndex,Mode=TwoWay}" Grid.Column="1"/>
+        <ListBox ItemsSource="{Binding ListPersons}" Grid.Column="1" Grid.Row="1" Grid.RowSpan="4" Background="#A8C3D1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.5*"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Label Content="ФИО: "/>
+                            <Label Content="Возраст: " Grid.Row="1"/>
+                            <Label Content="Семейное положение: " Grid.Row="2"/>
+                            <Label Content="Адрес: " Grid.Row="3"/>
+                            <Label Content="Email: " Grid.Row="4"/>
+                            <Label Content="C#: " Grid.Row="5"/>
+                            <Label Content="Английский: " Grid.Row="6"/>
+                            <Label Content="Испанский: " Grid.Row="7"/>
+                            <Label Content="ООП: " Grid.Row="8"/>
+                            <Label Content="БД: " Grid.Row="9"/>
+                            <Label Content="{Binding Fullname}" Grid.Column="1"/>
+                            <Label Content="{Binding Age}" Grid.Column="1" Grid.Row="1"/>
+                            <Label Content="{Binding Family}" Grid.Column="1" Grid.Row="2"/>
+                            <Label Content="{Binding Address}" Grid.Column="1" Grid.Row="3"/>
+                            <Label Content="{Binding Email}" Grid.Column="1" Grid.Row="4"/>
+                            <Label Content="{Binding IsCSharp}" Grid.Column="1" Grid.Row="5"/>
+                            <Label Content="{Binding IsEnglish}" Grid.Column="1" Grid.Row="6"/>
+                            <Label Content="{Binding IsSpain}" Grid.Column="1" Grid.Row="7" />
+                            <Label Content="{Binding IsEnglish}" Grid.Column="1" Grid.Row="8"/>
+                            <Label Content="{Binding IsSpain}" Grid.Column="1" Grid.Row="9" />
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="Padding" Value="5" />
+                    <Setter Property="Margin" Value="0" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListBoxItem">
+                                <ContentPresenter />
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+                
+            </ListBox.ItemContainerStyle>
+            
+        </ListBox>
+    </Grid>
+</Window>

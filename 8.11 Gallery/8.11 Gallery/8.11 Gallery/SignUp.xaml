@@ -1,0 +1,69 @@
+﻿<Window x:Class="_8._11_Gallery.SignUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8._11_Gallery"
+        mc:Ignorable="d"
+        Title="Галерея" Height="250" Width="400" MinHeight="250" MinWidth="400" Background="#A8C3D1">
+    <Window.Resources>
+        <ControlTemplate x:Key="TextBoxTemp" TargetType="{x:Type TextBox}">
+            <Border x:Name="Border" Background="#C4DDE1" CornerRadius="3" BorderThickness="2" BorderBrush="#97A6C0">
+                <Grid>
+                    <Rectangle Visibility="Hidden" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    <ScrollViewer>
+                        <TextBox Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Text}" Background="Transparent" Foreground="Black" BorderThickness="0" VerticalAlignment="Center"/>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"></Setter>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <ControlTemplate x:Key="ButtonTemp" TargetType="{x:Type Button}">
+            <Border TextBlock.Foreground="Black" CornerRadius="5" Background="#C4DDE1" Name="Border" BorderThickness="2" BorderBrush="#97A6C0" Margin="7">
+                <Grid>
+                    <Rectangle Visibility="Hidden" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    <ContentPresenter RecognizesAccessKey="True" Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"></Setter>
+                </Trigger>
+                <Trigger Property="IsEnabled"  Value="False">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <local:RegistrationViewModel x:Key="viewmodel"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource viewmodel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.4*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Логин" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Grid.Row="1" Content="Пароль" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Grid.Row="2" Content="Повторите пароль" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Login}"  Template="{StaticResource TextBoxTemp}" Margin="10"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Password}"  Template="{StaticResource TextBoxTemp}" Margin="10"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding RepeatPassword}"  Template="{StaticResource TextBoxTemp}" Margin="10"/>
+        <Grid Grid.Row="3" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Content="Авторизоваться" Command="{Binding OpenSignIn}" Template="{StaticResource ButtonTemp}"/>
+            <Button Content="Зарегестрироваться" Command="{Binding RegistrationCommand}" Grid.Column="1" Template="{StaticResource ButtonTemp}"/>
+        </Grid>
+    </Grid>
+</Window>

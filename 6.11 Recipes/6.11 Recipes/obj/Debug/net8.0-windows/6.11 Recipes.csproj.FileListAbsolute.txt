@@ -1,0 +1,20 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\bin\Debug\net8.0-windows\6.11 Recipes.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\bin\Debug\net8.0-windows\6.11 Recipes.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\bin\Debug\net8.0-windows\6.11 Recipes.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\bin\Debug\net8.0-windows\6.11 Recipes.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\bin\Debug\net8.0-windows\6.11 Recipes.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\refint\6.11 Recipes.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\6.11 Recipes.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\6.11 Recipes\6.11 Recipes\obj\Debug\net8.0-windows\ref\6.11 Recipes.dll

@@ -1,0 +1,28 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\8.11 Gallery.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\8.11 Gallery.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\8.11 Gallery.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\8.11 Gallery.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\8.11 Gallery.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.csproj.CopyComplete
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\refint\8.11 Gallery.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\8.11 Gallery.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\ref\8.11 Gallery.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\SignIn.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\SignIn.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\SignUp.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\8.11 Gallery\8.11 Gallery\obj\Debug\net8.0-windows\SignUp.baml

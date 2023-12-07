@@ -1,0 +1,103 @@
+﻿<Window x:Class="_8._11_Gallery.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8._11_Gallery"
+        mc:Ignorable="d"
+        Title="Галерея" Height="450" Width="800" MinHeight="450" MinWidth="800" Background="#A8C3D1">
+    <Window.Resources>
+        <ControlTemplate x:Key="ButtonTemp" TargetType="{x:Type Button}">
+            <Border TextBlock.Foreground="Black" CornerRadius="5" Background="#C4DDE1" Name="Border" BorderThickness="2" BorderBrush="#97A6C0">
+                <Grid>
+                    <Rectangle Visibility="Hidden" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    <ContentPresenter RecognizesAccessKey="True" Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"></Setter>
+                </Trigger>
+                <Trigger Property="IsEnabled"  Value="False">
+                    <Setter TargetName="Border" Property="Background" Value="#97A6C0"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <local:GalleryViewModel x:Key="viewmodel"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource viewmodel}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="0.19*"/>
+                <ColumnDefinition Width="0.9*"/>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="#97A6C0" BorderThickness="1" CornerRadius="7">
+                <Image Source="{Binding Current_Image.PathToPhoto}" Stretch="UniformToFill"/>
+            </Border>
+            <Slider Maximum="{Binding MaxImages}"  Value="{Binding Position, Mode=TwoWay}" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Center"/>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border BorderBrush="#97A6C0" BorderThickness="2" CornerRadius="10" Grid.Column="0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.9*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="0.65*"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label HorizontalAlignment="Center" Content="Об изображении:" Grid.ColumnSpan="2" VerticalAlignment="Center"/>
+                        <Label FontSize="12" Content="Название:" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Label FontSize="12" Content="Дата:" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Label FontSize="12" Content="Автор:" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Label FontSize="12" Content="{Binding Current_Image.Name}" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Label FontSize="12" Content="{Binding Current_Image.Date}" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Label FontSize="12" Content="{Binding Current_Image.Author}" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Grid>
+                </Border>
+                <Border BorderBrush="#97A6C0" BorderThickness="2" CornerRadius="10" Grid.Row="1" Grid.Column="1">
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1.1*"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label HorizontalAlignment="Center" Content="Оценка:"/>
+                        <RadioButton Content="5" Grid.Row="1"/>
+                        <RadioButton Content="4" Grid.Row="2"/>
+                        <RadioButton Content="3" Grid.Row="3"/>
+                        <RadioButton Content="2" Grid.Row="4"/>
+                        <RadioButton Content="1" Grid.Row="5"/>
+                    </Grid>
+                </Border>
+            </Grid>
+            
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Margin="5" Command="{Binding FirstImageCommand}" Content="В начало" Template="{StaticResource ButtonTemp}"/>
+            <Button Margin="5" Command="{Binding PreviousImageCommand}" Content="Предыдущая" Grid.Column="1" Template="{StaticResource ButtonTemp}"/>
+            <Button Margin="5" Command="{Binding NextImageCommand}" Content="Следующая" Grid.Column="2" Template="{StaticResource ButtonTemp}"/>
+            <Button Margin="5" Command="{Binding LastImageCommand}" Content="В конец" Grid.Column="3" Template="{StaticResource ButtonTemp}"/>
+        </Grid>
+    </Grid>
+</Window>

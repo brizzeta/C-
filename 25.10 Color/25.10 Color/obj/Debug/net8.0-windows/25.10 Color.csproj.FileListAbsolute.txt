@@ -1,0 +1,21 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\bin\Debug\net8.0-windows\25.10 Color.exe
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\bin\Debug\net8.0-windows\25.10 Color.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\bin\Debug\net8.0-windows\25.10 Color.runtimeconfig.json
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\bin\Debug\net8.0-windows\25.10 Color.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\bin\Debug\net8.0-windows\25.10 Color.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color_MarkupCompile.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color_MarkupCompile.lref
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.g.resources
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\refint\25.10 Color.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\25.10 Color.genruntimeconfig.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\25.10 Color\25.10 Color\obj\Debug\net8.0-windows\ref\25.10 Color.dll

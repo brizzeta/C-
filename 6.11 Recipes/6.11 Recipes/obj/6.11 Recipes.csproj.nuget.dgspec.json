@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrwol\\OneDrive\\Рабочий стол\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj": {}
+    "C:\\Technologies\\С#\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrwol\\OneDrive\\Рабочий стол\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj": {
+    "C:\\Technologies\\С#\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrwol\\OneDrive\\Рабочий стол\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj",
+        "projectUniqueName": "C:\\Technologies\\С#\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj",
         "projectName": "6.11 Recipes",
-        "projectPath": "C:\\Users\\mrwol\\OneDrive\\Рабочий стол\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj",
-        "packagesPath": "C:\\Users\\mrwol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrwol\\OneDrive\\Рабочий стол\\6.11 Recipes\\6.11 Recipes\\obj\\",
+        "projectPath": "C:\\Technologies\\С#\\6.11 Recipes\\6.11 Recipes\\6.11 Recipes.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Technologies\\С#\\6.11 Recipes\\6.11 Recipes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrwol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

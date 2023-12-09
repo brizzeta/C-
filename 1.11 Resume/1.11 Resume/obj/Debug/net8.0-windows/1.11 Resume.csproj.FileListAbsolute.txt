@@ -22,3 +22,28 @@ C:\Users\mrwol\OneDrive\Рабочий стол\1.11 Resume\1.11 Resume\obj\Debu
 C:\Users\mrwol\OneDrive\Рабочий стол\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.pdb
 C:\Users\mrwol\OneDrive\Рабочий стол\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.genruntimeconfig.cache
 C:\Users\mrwol\OneDrive\Рабочий стол\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\ref\1.11 Resume.dll
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\1.11 Resume.exe
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\1.11 Resume.deps.json
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\1.11 Resume.runtimeconfig.json
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\1.11 Resume.dll
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\1.11 Resume.pdb
+C:\Technologies\С#\1.11 Resume\1.11 Resume\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.csproj.AssemblyReference.cache
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\App.g.cs
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume_MarkupCompile.cache
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume_MarkupCompile.lref
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.g.resources
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.AssemblyInfoInputs.cache
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.AssemblyInfo.cs
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.csproj.CoreCompileInputs.cache
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.sourcelink.json
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.csproj.CopyComplete
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.dll
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\refint\1.11 Resume.dll
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.pdb
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\1.11 Resume.genruntimeconfig.cache
+C:\Technologies\С#\1.11 Resume\1.11 Resume\obj\Debug\net8.0-windows\ref\1.11 Resume.dll
